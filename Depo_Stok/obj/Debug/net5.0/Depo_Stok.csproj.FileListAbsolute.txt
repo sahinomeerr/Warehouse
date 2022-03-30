@@ -1,0 +1,16 @@
+C:\Users\os202\source\repos\Education\Depo_Stok\Depo_Stok\bin\Debug\net5.0\Depo_Stok.exe
+C:\Users\os202\source\repos\Education\Depo_Stok\Depo_Stok\bin\Debug\net5.0\Depo_Stok.deps.json
+C:\Users\os202\source\repos\Education\Depo_Stok\Depo_Stok\bin\Debug\net5.0\Depo_Stok.runtimeconfig.json
+C:\Users\os202\source\repos\Education\Depo_Stok\Depo_Stok\bin\Debug\net5.0\Depo_Stok.runtimeconfig.dev.json
+C:\Users\os202\source\repos\Education\Depo_Stok\Depo_Stok\bin\Debug\net5.0\Depo_Stok.dll
+C:\Users\os202\source\repos\Education\Depo_Stok\Depo_Stok\bin\Debug\net5.0\Depo_Stok.pdb
+C:\Users\os202\source\repos\Education\Depo_Stok\Depo_Stok\obj\Debug\net5.0\Depo_Stok.csproj.AssemblyReference.cache
+C:\Users\os202\source\repos\Education\Depo_Stok\Depo_Stok\obj\Debug\net5.0\Depo_Stok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\os202\source\repos\Education\Depo_Stok\Depo_Stok\obj\Debug\net5.0\Depo_Stok.AssemblyInfoInputs.cache
+C:\Users\os202\source\repos\Education\Depo_Stok\Depo_Stok\obj\Debug\net5.0\Depo_Stok.AssemblyInfo.cs
+C:\Users\os202\source\repos\Education\Depo_Stok\Depo_Stok\obj\Debug\net5.0\Depo_Stok.csproj.CoreCompileInputs.cache
+C:\Users\os202\source\repos\Education\Depo_Stok\Depo_Stok\obj\Debug\net5.0\Depo_Stok.dll
+C:\Users\os202\source\repos\Education\Depo_Stok\Depo_Stok\obj\Debug\net5.0\refint\Depo_Stok.dll
+C:\Users\os202\source\repos\Education\Depo_Stok\Depo_Stok\obj\Debug\net5.0\Depo_Stok.pdb
+C:\Users\os202\source\repos\Education\Depo_Stok\Depo_Stok\obj\Debug\net5.0\Depo_Stok.genruntimeconfig.cache
+C:\Users\os202\source\repos\Education\Depo_Stok\Depo_Stok\obj\Debug\net5.0\ref\Depo_Stok.dll
